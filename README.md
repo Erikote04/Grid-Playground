@@ -70,8 +70,8 @@
 .container {
 	grid-gap: 30px;
 	/*
-    grid-row-gap: 30px;
-    grid-column-gap: 30px;
+        grid-row-gap: 30px;
+        grid-column-gap: 30px;
     */
 }
 ```
@@ -397,6 +397,7 @@ Before alignment
 }
 ```
 
+After alingment
 ![alt text](<img/Captura de pantalla 2024-02-06 a las 10.24.03.png>)
 
 ##### `align-items: start`
