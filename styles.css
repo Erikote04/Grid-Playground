@@ -1,0 +1,23 @@
+.container {
+    width: 90%;
+    margin: 50px auto;
+    background-color: #eee;
+
+    display: grid;
+}
+
+.item {
+    padding: 20px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.i1 {background-color: orangered;}
+.i2 {background-color: yellowgreen;}
+.i3 {background-color: blueviolet;}
+.i4 {background-color: palevioletred;}
+.i5 {background-color: royalblue;}
+.i6 {background-color: goldenrod;}
+.i7 {background-color: crimson;}
+.i8 {background-color: darkslategray;}
